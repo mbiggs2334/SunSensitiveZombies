@@ -1,0 +1,14 @@
+version=1
+id=2843606331
+title=Sun Sensitive Zombies
+description=Another take on Night/Day zombies!  One of my nit picks with the night/day mods I've tried thus far is the shift from day to night isn't always accurate year-round. Sometimes the zeds will start sprinting 2 hours before it even gets dark!
+description=
+description=This mods allows you to create differing night and day zombie behavior, based on a brightness level of the sun, that you select!
+description=
+description=BIG shoutout to @The Illuminati, creator of Night Sprinters [41.60+], for letting me use his mod as a starting/reference point!
+description=
+description=This is my first mod so please let me know if you come uncross any bugs or issues and I'll look into it and see what I can do.
+description=
+description=Currently untested in multiplayer, but I don't see why it wouldn't work, so please do let me know if there are any issues there as well.
+tags=Build 41;Hardmode;Realistic
+visibility=public

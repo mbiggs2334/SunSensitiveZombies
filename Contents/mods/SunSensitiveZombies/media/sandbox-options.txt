@@ -1,0 +1,129 @@
+VERSION = 1,
+
+option SunSensitiveZombies.sunStrengthCutoff
+{
+	type = double, min = 0.0, max = 1.0, default = 0.73,
+	page = SunSensitiveZombies, translation = sunStrengthCutoff,
+}
+
+option SunSensitiveZombies.dayZombies
+{
+	type = enum, numValues = 4, default = 3,
+	page = SunSensitiveZombies, translation = dayZombies,
+	valueTranslation = Zombie_speeds,
+}
+
+option SunSensitiveZombies.nightZombies
+{
+	type = enum, numValues = 4, default = 1,
+	page = SunSensitiveZombies, translation = nightZombies,
+	valueTranslation = Zombie_speeds,
+}
+
+
+
+
+option SunSensitiveZombies.enhancedZombies
+{
+	type = boolean, default = true,
+	page = SunSensitiveZombies, translation = enhancedZombies,
+}
+
+
+
+
+option SunSensitiveZombies.dayZombiesStrength
+{
+	type = enum, numValues = 4, default = 1,
+	page = SunSensitiveZombies, translation = dayZombiesStrength,
+	valueTranslation = Zombie_strength,
+}
+
+option SunSensitiveZombies.nightZombiesStrength
+{
+	type = enum, numValues = 4, default = 3,
+	page = SunSensitiveZombies, translation = nightZombiesStrength,
+	valueTranslation = Zombie_strength,
+}
+
+
+
+option SunSensitiveZombies.dayZombiesToughness
+{
+	type = enum, numValues = 4, default = 1,
+	page = SunSensitiveZombies, translation = dayZombiesToughness,
+	valueTranslation = Zombie_toughness,
+}
+
+option SunSensitiveZombies.nightZombiesToughness
+{
+	type = enum, numValues = 4, default = 3,
+	page = SunSensitiveZombies, translation = nightZombiesToughness,
+	valueTranslation = Zombie_toughness,
+}
+
+
+
+
+option SunSensitiveZombies.dayZombiesHearing
+{
+	type = enum, numValues = 3, default = 1,
+	page = SunSensitiveZombies, translation = dayZombiesHearing,
+	valueTranslation = Zombie_hearing,
+}
+
+option SunSensitiveZombies.nightZombiesHearing
+{
+	type = enum, numValues = 3, default = 2,
+	page = SunSensitiveZombies, translation = nightZombiesHearing,
+	valueTranslation = Zombie_hearing,
+}
+
+
+
+
+option SunSensitiveZombies.dayZombiesSight
+{
+	type = enum, numValues = 3, default = 1,
+	page = SunSensitiveZombies, translation = dayZombiesSight,
+	valueTranslation = Zombie_sight,
+}
+
+option SunSensitiveZombies.nightZombiesSight
+{
+	type = enum, numValues = 3, default = 3,
+	page = SunSensitiveZombies, translation = nightZombiesSight,
+	valueTranslation = Zombie_sight,
+}
+
+
+
+option SunSensitiveZombies.dayZombiesCognition
+{
+	type = enum, numValues = 4, default = 3,
+	page = SunSensitiveZombies, translation = dayZombiesCognition,
+	valueTranslation = Zombie_cognition,
+}
+
+option SunSensitiveZombies.nightZombiesCognition
+{
+	type = enum, numValues = 4, default = 3,
+	page = SunSensitiveZombies, translation = nightZombiesCognition,
+	valueTranslation = Zombie_cognition,
+}
+
+
+
+option SunSensitiveZombies.dayZombiesMemory
+{
+	type = enum, numValues = 4, default = 1,
+	page = SunSensitiveZombies, translation = dayZombiesMemory,
+	valueTranslation = Zombie_memory,
+}
+
+option SunSensitiveZombies.nightZombiesMemory
+{
+	type = enum, numValues = 4, default = 2,
+	page = SunSensitiveZombies, translation = nightZombiesMemory,
+	valueTranslation = Zombie_memory,
+}

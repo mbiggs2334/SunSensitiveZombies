@@ -1,0 +1,71 @@
+Sandbox_EN = {
+    	Sandbox_SunSensitiveZombies = "Sun Sensitive Zombies"
+
+	Sandbox_sunStrengthCutoff = "Sun brightness cutoff",
+    	Sandbox_sunStrengthCutoff_tooltip = "How bright the sun needs to be to alter the Zombie lore. 1 = Brightest, 0 = Darkest.",
+    
+    	Sandbox_dayZombies = "Day zombie speed",
+    	Sandbox_dayZombies_tooltip = "Day time zombie speed",
+    	Sandbox_nightZombies = "Night zombie speed",
+    	Sandbox_nightZombies_tooltip = "Night time zombie speed",
+    	Sandbox_Zombie_speeds_option1 = "Sprinters"    
+    	Sandbox_Zombie_speeds_option2 = "Fast Shamblers",
+    	Sandbox_Zombie_speeds_option3 = "Shamblers",
+    	Sandbox_Zombie_speeds_option4 = "Random",
+
+	Sandbox_enhancedZombies = "Use altering day/night lore",
+	Sandbox_enhancedZombies_tooltip = "Enable or disable differing lore between day and night zombies (with the exception of the speed options above, the remaining options will be pulled from the original lore menu).
+
+	Sandbox_dayZombiesStrength = "Day zombie strength",
+	Sandbox_dayZombiesStrength_tooltip = "Controls the damage day zombies inflict per attack.",
+	Sandbox_nightZombiesStrength = "Night zombie strength",
+	Sandbox_nightZombiesStrength_tooltip = "Controls the damage night zombies inflict per attack.",
+    	Sandbox_Zombie_strength_option1 = "Superhuman",
+	Sandbox_Zombie_strength_option2 = "Normal",
+	Sandbox_Zombie_strength_option3 = "Weak",
+	Sandbox_Zombie_strength_option4 = "Random",
+
+	Sandbox_dayZombiesToughness = "Day zombie toughness",
+	Sandbox_dayZombiesToughness_tooltip = "Controls the difficulty to kill day zombies",
+	Sandbox_nightZombiesToughness = "Night zombie toughness",
+	Sandbox_nightZombiesToughness_tooltip = "Controls the difficulty to kill night zombies",
+	Sandbox_Zombie_toughness_option1 = "Tough",
+	Sandbox_Zombie_toughness_option2 = "Normal",
+	Sandbox_Zombie_toughness_option3 = "Fragile",
+	Sandbox_Zombie_toughness_option4 = "Random",
+
+	Sandbox_dayZombiesHearing = "Day zombie hearing",
+	Sandbox_dayZombiesHearing_tooltip = "Controls day zombie hearing radius.",
+	Sandbox_nightZombiesHearing = "Night zombie hearing",
+	Sandbox_nightZombiesHearing_tooltip = "Controls night zombie hearing radius.",
+	Sandbox_Zombie_hearing_option1 = "Pinpoint",
+	Sandbox_Zombie_hearing_option2 = "Normal",
+	Sandbox_Zombie_hearing_option3 = "Poor",
+
+	Sandbox_dayZombiesSight = "Day zombie sight",
+	Sandbox_dayZombiesSight_tooltip = "Controls day zombie vision radius.",
+	Sandbox_nightZombiesSight = "Night zombie sight",
+	Sandbox_nightZombiesSight_tooltip = "Controls night zombie vision radius.",
+	Sandbox_Zombie_sight_option1 = "Eagle",
+	Sandbox_Zombie_sight_option2 = "Normal",
+	Sandbox_Zombie_sight_option3 = "Poor",
+
+	Sandbox_dayZombiesCognition = "Day zombie cognition",
+	Sandbox_dayZombiesCognition_tooltip = "Controls day zombie intelligence.",
+	Sandbox_nightZombiesCognition = "Night zombie cognition",
+	Sandbox_nightZombiesCognition_tooltip = "Controls night zombie intelligence.",
+	Sandbox_Zombie_cognition_option1 = "Navigate + Use Doors",	
+	Sandbox_Zombie_cognition_option2 = "Navigate",
+	Sandbox_Zombie_cognition_option3 = "Basic Navigation",
+  	Sandbox_Zombie_cognition_option4 = "Random",
+
+	Sandbox_dayZombiesMemory = "Day zombie memory",
+	Sandbox_dayZombiesMemory_tooltip = "Controls how long day zombies remember players after seeing or hearing them.",
+	Sandbox_nightZombiesMemory = "Night zombie memory",
+	Sandbox_nightZombiesMemory_tooltip = "Controls how long night zombies remember players after seeing or hearing them.",
+	Sandbox_Zombie_memory_option1 = "Long",
+	Sandbox_Zombie_memory_option2 = "Normal",
+	Sandbox_Zombie_memory_option3 = "Short",
+	Sandbox_Zombie_memory_option4 = "None",
+
+}
